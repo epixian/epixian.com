@@ -51,7 +51,7 @@
 
         <a name="build"></a>
         <section class="flex bg-blue-800 shadow-xl min-h-full text-gray-300">
-            <div class="container md:flex md:flex-row md:items-center px-8 py-16">
+            <div class="container md:flex md:flex-row-reverse md:items-center px-8 py-16">
                 <div class="md:py-48 md:text-left md:w-1/3 pb-16 w-full">
                     <h2 class="heading font-serif text-6xl">build.</h2>
                     <p class="font-mono"><em>v.</em> \ˈbild\ : <span>to form by combining or arranging elements into a composite whole</span></p>
