@@ -1,0 +1,40 @@
+@tailwind base;
+
+header a {
+    @apply .text-gray-300;
+}
+header a:hover {
+    @apply .text-primary;
+}
+
+.heading::first-letter, 
+.text-primary, 
+a {
+    color: #E24848;
+}
+
+.saturate-on-hover {
+    filter: grayscale(50%);
+    opacity: 0.7;
+    transition: .35s;
+}
+
+.saturate-on-hover:hover {
+    filter: none;
+    opacity: 1;
+}
+
+.portfolio-img {
+    filter: grayscale(50%);
+    opacity: 0.7;
+    transition: .35s;
+}
+
+.portfolio-img:hover {
+    filter: none;
+    opacity: 1;
+}
+
+@tailwind components;
+
+@tailwind utilities;
