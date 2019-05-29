@@ -1,7 +1,3 @@
-<?php
-
-dd();
-?>
 <html>
 <head>
     <title>EPIXIAN</title>
