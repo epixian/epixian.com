@@ -125,24 +125,24 @@
                 <!-- Begin Mailchimp Signup Form -->
                 <div id="mc_embed_signup" class="flex items-center justify-around mb-8 mx-auto">
                 <form action="https://epixian.us18.list-manage.com/subscribe/post?u=ccc578b232f59af0c7ac81862&amp;id=833dc73201" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                    <div id="mc_embed_signup_scroll" class="mc-field-group inline-flex hover:shadow-xl">
-                        <div class="">
+                    <div id="mc_embed_signup_scroll" class="flex hover:shadow-xl inline-flex items-center max-w-xs mc-field-group w-full">
+                        <div class="flex-1">
                             <input type="email" value="" name="EMAIL" class="required email py-2 px-4 rounded-l w-64 shadow text-gray-900" id="mce-EMAIL" placeholder="Email">
                         </div>
-                        <div id="mce-responses" class="clear">
+                        <div id="mce-responses" class="clear w-0">
                             <div class="response" id="mce-error-response" style="display:none"></div>
                             <div class="response" id="mce-success-response" style="display:none"></div>
                         </div>
                         <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ccc578b232f59af0c7ac81862_833dc73201" tabindex="-1" value=""></div>
-                        <div class="clear"><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button bg-gray-700 text-gray-300 py-2 px-4 rounded-r shadow hover:bg-primary"></div>
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ccc578b232f59af0c7ac81862_833dc73201" tabindex="-1" value="" class="w-0"></div>
+                        <div class="clear"><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="bg-gray-700 button hover:bg-primary px-4 py-2 rounded-r shadow text-gray-300"></div>
                     </div>
                 </form>
                 </div>
 
                 <!--End mc_embed_signup-->
 
-                <div class="w-48 m-4 mx-auto">
+                <div class="w-48 mx-auto my-4">
                     
                     @include ('svg.epixian-logo-reverse')
 
