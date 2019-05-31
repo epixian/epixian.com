@@ -33,7 +33,7 @@
             <div class="container md:flex md:flex-row md:items-center px-8 py-16">
                 <div class="md:py-48 md:text-right md:w-1/3 pb-16 w-full">
                     <h2 class="heading font-serif text-6xl">design.</h2>
-                    <p class="font-mono"><em>v.</em> \di-ˈzīn\ : <span>to devise for a specific function or end</span></p>
+                    <p class="font-mono"><em>v.</em> \di-'zīn\ : <span>to devise for a specific function or end</span></p>
                 </div>
                 <div class="w-full md:w-2/3 p-0 md:px-16 lg:px-24">
                     <div class="">
@@ -54,7 +54,7 @@
             <div class="container md:flex md:flex-row-reverse md:items-center px-8 py-16">
                 <div class="md:py-48 md:text-left md:w-1/3 pb-16 w-full">
                     <h2 class="heading font-serif text-6xl">build.</h2>
-                    <p class="font-mono"><em>v.</em> \ˈbild\ : <span>to form by combining or arranging elements into a composite whole</span></p>
+                    <p class="font-mono"><em>v.</em> \'bild\ : <span>to form by combining or arranging elements into a composite whole</span></p>
                 </div>
                 <div class="lg:px-24 md:px-16 md:w-2/3 p-0 w-full">
                     <h3 class="text-2xl font-semibold pb-4">Website Development</h3>
@@ -86,7 +86,7 @@
             <div class="container md:flex md:flex-row md:items-center px-8 py-16">
                 <div class="md:py-48 md:text-right md:w-1/3 pb-16 w-full">
                     <h2 class="heading font-serif text-6xl">manage.</h2>
-                    <p class="font-mono"><em>v.</em> \ˈma-nij\ : to handle or direct with a degree of skill</p>
+                    <p class="font-mono"><em>v.</em> \'ma-nij\ : to handle or direct with a degree of skill</p>
                 </div>
                 <div class="lg:px-24 md:px-16 md:w-2/3 py-8 sm:py-0 w-full">
                     <h3 class="text-2xl font-semibold pb-4">Website Hosting</h3>
