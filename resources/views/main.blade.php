@@ -3,7 +3,7 @@
     <title>EPIXIAN</title>
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         html {
             scroll-behavior:smooth
