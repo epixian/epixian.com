@@ -1,9 +1,13 @@
 <html>
 <head>
-    <title>EPIXIAN</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="icon" type="image/svg+xml" href="{{ asset('images/epixian-icon.svg') }}">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>EPIXIAN</title>
+
     <style>
         html {
             scroll-behavior:smooth
